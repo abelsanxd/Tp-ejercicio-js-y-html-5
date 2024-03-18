@@ -7,3 +7,9 @@ body {
 main {
     flex-grow: 1;
 }
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
